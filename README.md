@@ -18,6 +18,9 @@ Email Me 👉 ✉️ hassan.techdev@gmail.com For Collaboration/Project or Anyth
 ![](https://nirzak-streak-stats.vercel.app/?user=Hassan426&theme=github_dark&hide_border=false)<br/>
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan426&layout=compact&langs_count=8&theme=github_dark)
+
+
 ## 🔝 Top Contributed Repositories
 > ⚠️ This widget may not always load due to GitHub rate limits
 
