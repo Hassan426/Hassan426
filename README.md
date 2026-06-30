@@ -1,7 +1,7 @@
 # 💫 Hi 👋, Muhammad Hassan
 **Passionate Frontend & Mobile Developer (React & React Native) | DevOps Advocate | Pakistan**
 
-Email Me 👉 ✉️ hassan.techdev@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ hassan.devstudio For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Swift Flow mobile solutions
 - 🌱 **I’m currently learning:** Advanced React & React Native techniques
@@ -58,7 +58,7 @@ Email Me 👉 ✉️ hassan.techdev@gmail.com For Collaboration/Project or Anyth
 - Long-term Remote Roles  
 
 📩 **Let’s build something impactful together:**  
-**hassan.techdev@gmail.com**
+**hassan.devstudio@gmail.com**
 
 ---
 
